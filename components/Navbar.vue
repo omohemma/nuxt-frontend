@@ -22,8 +22,8 @@
       </div>
 
       <div class="navbar-nav ml-auto">
-        <nuxt-link to="/" class="nav-item nav-link" href="#">Login</nuxt-link>
-        <nuxt-link to="/" class="nav-item nav-link" href="#">Register</nuxt-link>
+        <nuxt-link to="/login" class="nav-item nav-link" href="#">Login</nuxt-link>
+        <nuxt-link to="/register" class="nav-item nav-link" href="#">Register</nuxt-link>
       </div>
     </div>
   </nav>
